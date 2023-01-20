@@ -61,6 +61,13 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 
 11) [MASI: microbiota—active substance interactions database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779062/) *Xian Zeng, Xue Yang, Jiajun Fan, Ying Tan, Lingyi Ju, Wanxiang Shen, Yali Wang, Xinghao Wang, Weiping Chen, Dianwen Ju, and Yu Zong Chen* [resource](http://www.aiddlab.com/MASI/)
 
+12) [MicroPhenoDB Associates Metagenomic Data with Pathogenic Microbes, Microbial Core Genes, and Human Disease Phenotypes](https://pubmed.ncbi.nlm.nih.gov/33418085/) *Guocai Yao, Wenliang Zhang, Minglei Yang, Huan Yang, Jianbo Wang, Haiyue Zhang, Lai Wei, Zhi Xie, Weizhong Li* [resource](http://www.liwzlab.cn/microphenodb)
+
+13) [iModulonDB: a knowledgebase of microbial transcriptional regulation derived from machine learning](https://pubmed.ncbi.nlm.nih.gov/33045728/) *Kevin Rychel, Katherine Decker, Anand V Sastry, Patrick V Phaneuf, Saugat Poudel, Bernhard O Palsson* [resource](https://imodulondb.org/index.html)
+
+14) [The Natural Products Atlas 2.0: a database of microbially-derived natural products](https://pubmed.ncbi.nlm.nih.gov/34718710/) *Jeffrey A van Santen, Ella F Poynton, Dasha Iskakova, Emily McMann, Tyler A Alsup, Trevor N Clark, Claire H Fergusson, David P Fewer, Alison H Hughes, Caitlin A McCadden, Jonathan Parra, Sylvia Soldatou, Jeffrey D Rudolf, Elisabeth M-L Janssen, Katherine R Duncan, Roger G Linington* [resource](https://www.npatlas.org/)
+
+15) [MIBiG 3.0: a community-driven effort to annotate experimentally validated biosynthetic gene clusters](https://pubmed.ncbi.nlm.nih.gov/36399496/) *Barbara R Terlouw, Kai Blin, Jorge C Navarro-Muñoz, ..., Dong Yang, Jingwei Yu, Mitja Zdouc, Zheng Zhong, Jérôme Collemare, Roger G Linington, Tilmann Weber, Marnix H Medema* [resource](https://mibig.secondarymetabolites.org/)
 
 
 ### Cheat Sheets
