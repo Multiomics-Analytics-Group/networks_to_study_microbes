@@ -52,6 +52,16 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 
 7) [BacDive in 2022: the knowledge base for standardized bacterial and archaeal data](https://pubmed.ncbi.nlm.nih.gov/34718743/)*Lorenz Christian Reimer, Joaquim Sardà Carbasse, Julia Koblitz, Christian Ebeling, Adam Podstawka, Jörg Overmann* [resource](https://bacdive.dsmz.de/)
 
+8) [TEMPURA: Database of Growth TEMPeratures of Usual and RAre Prokaryotes](https://pubmed.ncbi.nlm.nih.gov/32727974/)*Yu Sato, Kenji Okano, Hiroyuki Kimura, Kohsuke Honda* [resource](http://togodb.org/db/tempura)
+
+
+9) [Exposome-Explorer 2.0: an update incorporating candidate dietary biomarkers and dietary associations with cancer risk](https://pubmed.ncbi.nlm.nih.gov/31724701/) *Vanessa Neveu, Geneviève Nicolas, Reza M Salek, David S Wishart, Augustin Scalbert* [resource](http://exposome-explorer.iarc.fr/)
+
+10) [HMDB 5.0: the Human Metabolome Database for 2022](https://pubmed.ncbi.nlm.nih.gov/34986597/) *David S Wishart, AnChi Guo, Eponine Oler, Fei Wang, Afia Anjum, Harrison Peters, Raynard Dizon, Zinat Sayeeda, Siyang Tian, Brian L Lee, Mark Berjanskii, Robert Mah, Mai Yamamoto, Juan Jovel, Claudia Torres-Calzada, Mickel Hiebert-Giesbrecht, Vicki W Lui, Dorna Varshavi, Dorsa Varshavi, Dana Allen, David Arndt, Nitya Khetarpal, Aadhavya Sivakumaran 1, Karxena Harford, Selena Sanford, Kristen Yee, Xuan Cao, Zachary Budinski, Jaanus Liigand, Lun Zhang, Jiamin Zheng, Rupasri Mandal, Naama Karu, Maija Dambrova, Helgi B Schiöth, Russell Greiner, Vasuk Gautam* [resource](https://hmdb.ca/)
+
+11) [MASI: microbiota—active substance interactions database](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7779062/) *Xian Zeng, Xue Yang, Jiajun Fan, Ying Tan, Lingyi Ju, Wanxiang Shen, Yali Wang, Xinghao Wang, Weiping Chen, Dianwen Ju, and Yu Zong Chen* [resource](http://www.aiddlab.com/MASI/)
+
+
 
 ### Cheat Sheets
 - Basics:
