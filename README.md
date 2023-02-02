@@ -69,6 +69,8 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 
 15) [MIBiG 3.0: a community-driven effort to annotate experimentally validated biosynthetic gene clusters](https://pubmed.ncbi.nlm.nih.gov/36399496/) *Barbara R Terlouw, Kai Blin, Jorge C Navarro-Muñoz, ..., Dong Yang, Jingwei Yu, Mitja Zdouc, Zheng Zhong, Jérôme Collemare, Roger G Linington, Tilmann Weber, Marnix H Medema* [resource](https://mibig.secondarymetabolites.org/)
 
+16) [The National Microbiome Data Collaborative: enabling microbiome science](https://pubmed.ncbi.nlm.nih.gov/32350400/) *Elisha M Wood-Charlson, Anubhav, Deanna Auberry, Hannah Blanco, Mark I Borkum, Yuri E Corilo, Karen W Davenport, Shweta Deshpande, Ranjeet Devarakonda, Meghan Drake, William D Duncan, Mark C Flynn, David Hays, Bin Hu, Marcel Huntemann, Po-E Li, Mary Lipton, Chien-Chi Lo, David Millard, Kayd Miller, Paul D Piehowski, Samuel Purvine, T B K Reddy, Migun Shakya, Jagadish Chandrabose Sundaramurthi, Pajau Vangay, Yaxing Wei, Bruce E Wilson, Shane Canon, Patrick S G Chain, Kjiersten Fagnan, Stanton Martin, Lee Ann McCue, Christopher J Mungall, Nigel J Mouncey, Mary E Maxon, Emiley A Eloe-Fadrosh* [resource](https://data.microbiomedata.org/)
+
 
 ### Cheat Sheets
 - Basics:
