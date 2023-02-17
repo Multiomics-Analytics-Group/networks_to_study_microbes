@@ -22,7 +22,7 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
   
 | Time                                                | DAY 1                                                | DAY 2                                                | DAY 3                                 |
 |------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|---------------------------------------|
-|8:30-9:20| [Introduction and Housekeeping]() | [Working with Data in Python I]()                                    | [Analysing Networks I]() | 
+|8:30-9:20| [Introduction and Housekeeping](slides/01_Intro.pdf) | [Working with Data in Python I]()                                    | [Analysing Networks I]() | 
 |9:20-10:10| [An Omics View on Microbes I]()     |   [Working with Data in Python II]()              |                    |
 |10:10-10:30| Coffee break                                         | Coffee break                                         | Coffee break                          |
 |10:30-11:20| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
