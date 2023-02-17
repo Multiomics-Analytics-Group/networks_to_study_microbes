@@ -24,9 +24,9 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 |------------------------------------------------------|------------------------------------------------------|---------------------------------------|
 | Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
 | [Introduction and Housekeeping]() | [Working with Data in Python I]()                                    | [Analysing Networks I]() | 
-| [Computational Microbiology]()     |   [Working with Data in Python II]()              |                    |
+| [An Omics View on Microbes I]()     |   [Working with Data in Python II]()              |                    |
 | Coffee break                                         | Coffee break                                         | Coffee break                          |
-| [An Omics View on Microbes]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
+| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
 | [Data Resources]()                           | [Visualising Networks I]()                                                     |        []()                               |
 | Lunch                                                | Lunch                                                | Lunch                                 |
 | [Introduction to Python]()   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
