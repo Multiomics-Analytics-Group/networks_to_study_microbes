@@ -20,19 +20,18 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 ## Sylabus
 
   
-| DAY 1                                                | DAY 2                                                | DAY 3                                 |
-|------------------------------------------------------|------------------------------------------------------|---------------------------------------|
-| Morning coffee (optional)                             | Morning coffee (optional)                           | Morning coffee (optional)             |
-| [Introduction and Housekeeping]() | [Working with Data in Python I]()                                    | [Analysing Networks I]() | 
-| [An Omics View on Microbes I]()     |   [Working with Data in Python II]()              |                    |
-| Coffee break                                         | Coffee break                                         | Coffee break                          |
-| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
-| [Data Resources]()                           | [Visualising Networks I]()                                                     |        []()                               |
-| Lunch                                                | Lunch                                                | Lunch                                 |
-| [Introduction to Python]()   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
-| Coffee break                                         | Coffee break                                         | Coffee break                          |
-| [Recap Exercises]()                                       | [Network Exercises]()                                     | [Team Project]()          |
-| Q & A                                                | Q & A                                                |   Team Project Presentations and Q&A                               |
+| Time                                                | DAY 1                                                | DAY 2                                                | DAY 3                                 |
+|------------------------------------------------------|------------------------------------------------------|------------------------------------------------------|---------------------------------------|
+|8:30-9:20| [Introduction and Housekeeping]() | [Working with Data in Python I]()                                    | [Analysing Networks I]() | 
+|9:20-10:10| [An Omics View on Microbes I]()     |   [Working with Data in Python II]()              |                    |
+|10:10-10:30| Coffee break                                         | Coffee break                                         | Coffee break                          |
+|10:30-11:20| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
+|11:20-12:10| [Data Resources]()                           | [Visualising Networks I]()                                                     |        []()                               |
+|12:10-13:30| Lunch                                                | Lunch                                                | Lunch                                 |
+|13:30-14:20| [Introduction to Python I]()   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
+|14:20-14:40| Coffee break                                         | Coffee break                                         | Coffee break                          |
+|14:40-16:00| [Introduction to Python II]()                                       | [Network Exercises]()                                     | [Team Project]()          |
+|16:00-16:50| Recap and Q & A                                                | Recap and Q & A                                                |   Team Project Presentations and Q&A                               |
 
 ## Further Resources
 
