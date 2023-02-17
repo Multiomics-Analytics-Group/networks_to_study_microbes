@@ -38,15 +38,15 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 
 ### References
 
-1) [ALEdb 1.0: a database of mutations from adaptive laboratory evolution experimentation](https://pubmed.ncbi.nlm.nih.gov/30357390/) *Patrick V Phaneuf, Dennis Gosting, Bernhard O Palsson, Adam M Feist*
+1) [ALEdb 1.0: a database of mutations from adaptive laboratory evolution experimentation](https://pubmed.ncbi.nlm.nih.gov/30357390/) *Patrick V Phaneuf, Dennis Gosting, Bernhard O Palsson, Adam M Feist* [resource] (https://aledb.org/)
 
-2) [MiMeDB: the Human Microbial Metabolome Database](https://pubmed.ncbi.nlm.nih.gov/36215042/) *David S Wishart, Eponine Oler, Harrison Peters, AnChi Guo, Sagan Girod, Scott Han, Sukanta Saha, Vicki W Lui, Marcia LeVatte, Vasuk Gautam, Rima Kaddurah-Daouk, Naama Karu*
+2) [MiMeDB: the Human Microbial Metabolome Database](https://pubmed.ncbi.nlm.nih.gov/36215042/) *David S Wishart, Eponine Oler, Harrison Peters, AnChi Guo, Sagan Girod, Scott Han, Sukanta Saha, Vicki W Lui, Marcia LeVatte, Vasuk Gautam, Rima Kaddurah-Daouk, Naama Karu* [resource](https://mimedb.org/)
 
-3) [Web of microbes (WoM): a curated microbial exometabolomics database for linking chemistry and microbes](https://pubmed.ncbi.nlm.nih.gov/30208844/) *Suzanne M Kosina, Annette M Greiner, Rebecca K Lau, Stefan Jenkins, Richard Baran, Benjamin P Bowen, Trent R Northen*
+3) [Web of microbes (WoM): a curated microbial exometabolomics database for linking chemistry and microbes](https://pubmed.ncbi.nlm.nih.gov/30208844/) *Suzanne M Kosina, Annette M Greiner, Rebecca K Lau, Stefan Jenkins, Richard Baran, Benjamin P Bowen, Trent R Northen* [resource](https://metatlas.nersc.gov/wom/project-begin.view)
 
 4) [mBodyMap: a curated database for microbes across human body and their associations with health and diseases](https://pubmed.ncbi.nlm.nih.gov/34718713/) *Hanbo Jin, Guoru Hu, Chuqing Sun, Yiqian Duan, Zhenmo Zhang, Zhi Liu, Xing-Ming Zhao, Wei-Hua Chen* [resource](https://mbodymap.microbiome.cloud/)
 
-5) [MicroPhenoDB Associates Metagenomic Data with Pathogenic Microbes, Microbial Core Genes, and Human Disease Phenotypes]() *Guocai Yao, Wenliang Zhang, Minglei Yang, Huan Yang, Jianbo Wang, Haiyue Zhang, Lai Wei, Zhi Xie, Weizhong Li*
+5) [MicroPhenoDB Associates Metagenomic Data with Pathogenic Microbes, Microbial Core Genes, and Human Disease Phenotypes](https://pubmed.ncbi.nlm.nih.gov/33418085) *Guocai Yao, Wenliang Zhang, Minglei Yang, Huan Yang, Jianbo Wang, Haiyue Zhang, Lai Wei, Zhi Xie, Weizhong Li* [resource](http://www.liwzlab.cn/microphenodb)
 
 6) [Rhea, the reaction knowledgebase in 2022](https://pubmed.ncbi.nlm.nih.gov/34755880/) *Parit Bansal, Anne Morgat, Kristian B Axelsen, Venkatesh Muthukrishnan, Elisabeth Coudert, Lucila Aimo, Nevila Hyka-Nouspikel, Elisabeth Gasteiger, Arnaud Kerhornou, Teresa Batista Neto, Monica Pozzato, Marie-Claude Blatter, Alex Ignatchenko, Nicole Redaschi, Alan Bridge* [resource](https://www.rhea-db.org/)
 
