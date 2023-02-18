@@ -26,7 +26,7 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 |9:20-10:10| [An Omics View on Microbes I]()     |   [Working with Data in Python II]()              |                    |
 |10:10-10:30| Coffee break                                         | Coffee break                                         | Coffee break                          |
 |10:30-11:20| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
-|11:20-12:10| [Data Resources](slides/02_open_science.pdf)                           | [Visualising Networks I]()                                                     |        []()                               |
+|11:20-12:10| [Open Science](slides/02_open_science.pdf)                           | [Visualising Networks I]()                                                     |        []()                               |
 |12:10-13:30| Lunch                                                | Lunch                                                | Lunch                                 |
 |13:30-14:20| [Introduction to Python I]()   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
 |14:20-14:40| Coffee break                                         | Coffee break                                         | Coffee break                          |
