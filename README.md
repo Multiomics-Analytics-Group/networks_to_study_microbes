@@ -28,7 +28,7 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 |10:30-11:20| [An Omics View on Microbes II]()                             | [Visualizing Data in Python]()                                     | [Analysing Networks II]()       |
 |11:20-12:10| [Open Science](slides/02_open_science.pdf)                           | [Visualising Networks I]()                                                     |        []()                               |
 |12:10-13:30| Lunch                                                | Lunch                                                | Lunch                                 |
-|13:30-14:20| [Introduction to Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/01_basics.ipynb)   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
+|13:30-14:20| [Introduction to Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/01_basics.ipynb)   | [Visualising Networks II]()                                     | [Team Project](Exercise)          |
 |14:20-14:40| Coffee break                                         | Coffee break                                         | Coffee break                          |
 |14:40-16:00| [Introduction to Python II]()                                       | [Network Exercises]()                                     | [Team Project]()          |
 |16:00-16:50| Recap and Q & A                                                | Recap and Q & A                                                |   Team Project Presentations and Q&A                               |
