@@ -105,3 +105,7 @@ In this course we use [Google Colab](https://colab.research.google.com/) to exec
 
 [Anaconda](https://www.anaconda.com/products/individual) offers for your private computer an extended installations, including most tools you will ever need for Python.
 
+
+## Acknowledgements
+
+Some of the notebooks have been inspired by the course [Python Tsunami](https://github.com/Center-for-Health-Data-Science/PythonTsunami) at the [Center for Health Data Science (HeaDS)](https://heads.ku.dk/) at the [University of Copenhagen](https://www.ku.dk/). 
