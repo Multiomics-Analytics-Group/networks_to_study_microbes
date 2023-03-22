@@ -2,7 +2,7 @@
   <img src="figures/cfb.png" width="300">
 </p>
 <p align="center">
-  <img src="figures/netmicrobs.png" width="600">
+  <img src="figures/netmicrobes.png" width="600">
 </p>
 
 
