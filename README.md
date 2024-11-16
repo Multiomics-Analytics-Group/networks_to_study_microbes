@@ -23,15 +23,17 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 |Time| DAY 1| DAY 2| DAY 3| DAY 4|
 |-----|-----|-----|-----|-----|
 |9:00-9:45|[Introduction and Housekeeping](slides/01_Intro.pdf)|[Introduction to Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/01_basics.ipynb)|[Visualising Networks I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/03_nx.ipynb)|[Analysing Networks I]()|
-| 9:45-10:30|[An Omics View on Microbes I](slides/An_OmicsViewMicrobes.pdf)|[Introduction to Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/01_basics.ipynb)|[]()|[]()|
+| 9:45-10:30|[An Omics View on Microbes I](slides/An_OmicsViewMicrobes.pdf)|[Introduction to Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/01_basics.ipynb)|[]()|[Analysing Networks II]()|
 |10:30-11:00| Coffee break| Coffee break | Coffee break| Coffee break|
-|11:00-11:45| [An Omics View on Microbes II](slides/An_OmicsViewMicrobes.pdf) | [Working with Data in Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/02_pandas.ipynb) | [Network Exercises](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/04_nxpandas.ipynb)| [Analysing Networks II]() |
-| 11:45-12:30 | [Open Science](slides/02_open_science.pdf)| [Working with Data in Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/02_pandas.ipynb) | []()| []()|
+|11:00-11:45| [An Omics View on Microbes II](slides/An_OmicsViewMicrobes.pdf) | [Working with Data in Python I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/02_pandas.ipynb) | [Network Exercises](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/04_nxpandas.ipynb)|[Graphical User Interface]()|
+| 11:45-12:30 | [Open Science](slides/02_open_science.pdf)| [Working with Data in Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/02_pandas.ipynb) | []()| [Invited Speaker]()|
 |12:30-14:00| Lunch| Lunch| Lunch|Lunch|
 |14:00-14:45| [Network Biology]() |[Databases & Data Annotation]()| [Visualising Networks II -- Gephi]()| [Team Project](Exercise)|
-|14:45-15:15| Coffee break| Coffee break| Coffee break| Coffee break|
-|15:15-16:00| [Network Biology journal club]()| [Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[]()| [Team Project]()|
-|16:00-16:30| Recap and Q & A| Recap and Q & A|Recap and Q & A|Team Project Presentations and Q&A|
+|14:45-15:30| [Network Biology journal club]()| [Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Visualising Networks II -- Cytoscape]()| [Team Project]()|
+|15:30-16:00| Coffee break| Coffee break| Coffee break| Coffee break|
+|16:00-16:30| [Network Biology journal club]()|[Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Cytoscape/Gephi exercise]()|[Team Project]()|
+|16:30-17:00| Recap and Q & A| Recap and Q & A|Recap and Q & A|Team Project Presentations and Q&A|
+
 
 
 ## Further Resources
