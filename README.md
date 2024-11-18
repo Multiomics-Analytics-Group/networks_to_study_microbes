@@ -27,9 +27,9 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 | 11:45-12:30 | [Open Science](slides/02_open_science.pdf)| [Working with Data in Python II](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/02_pandas.ipynb) | [Network Exercises](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/04_nxpandas.ipynb)| [Introduction to Team Projects]()|
 |12:30-14:00| Lunch| Lunch| Lunch|Lunch|
 |14:00-14:45| [Network Biology](slides/03_network_biology.pdf) |[Databases & Data Annotation]()| [Visualising Networks II -- Gephi]()| [Team Project](Exercise)|
-|14:45-15:30| [Network Biology journal club]()| [Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Visualising Networks II -- Cytoscape]()| [Team Project]()|
+|14:45-15:30| [Network Biology journal club](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01868-z)| [Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Visualising Networks II -- Cytoscape]()| [Team Project]()|
 |15:30-16:00| Coffee break| Coffee break| Coffee break| Coffee break|
-|16:00-16:30| [Network Biology journal club]()|[Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Cytoscape/Gephi exercise]()|[Team Project]()|
+|16:00-16:30| [Network Biology journal club](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-024-01868-z)|[Visualizing Data in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/main/notebooks/05_viz.ipynb)|[Cytoscape/Gephi exercise]()|[Team Project]()|
 |16:30-17:00| Recap and Q & A| Recap and Q & A|Recap and Q & A|Team Project Presentations and Q&A|
 
 ## Further Resources
