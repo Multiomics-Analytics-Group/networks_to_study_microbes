@@ -17,7 +17,7 @@ The goal of the course is to provide an introduction to the use of networks in m
 ## Keywords
 Computational microbiology, networks, databases, Python, programming, data, pipelines, data science.
 
-## Sylabus
+## Syllabus
 
   
 | Time | DAY |
@@ -26,10 +26,10 @@ Computational microbiology, networks, databases, Python, programming, data, pipe
 | 9:30-10:15  | [An Omics View on Microbes](https://docs.google.com/presentation/d/1PwfB-IZnTVbo7smtkyW999QgDXiBJzXD/edit?usp=sharing&ouid=107127810643819568580&rtpof=true&sd=true) |
 | 10:15-10:45 | Coffee break |
 | 10:45-11:15 | [Network Biology](https://docs.google.com/presentation/d/1hSxzKKem5FD6HvACY7AxmuSgdUJy106HrR-ZXjL0_PY/edit?usp=sharing)|
-| 11:15-12:30 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/05_Visualising_Networks/03_nx.ipynb) |
+| 11:15-12:30 | [Introduction to Networks in Python](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/03_nx.ipynb) |
 | 12:30-13:30 | Lunch |
-| 13:30-14:15 | [Analysing Networks I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/05_Visualising_Networks/04_nxpandas.ipynb)         |
-| 14:15-15:00 | [Analysing Networks II ](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/05_Visualising_Networks/04_nxpandas.ipynb)       |
+| 13:30-14:15 | [Analysing Networks I](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/04_nxpandas.ipynb)         |
+| 14:15-15:00 | [Analysing Networks II ](https://colab.research.google.com/github/Multiomics-Analytics-Group/networks_to_study_microbes/blob/Chile2025/notebooks/04_nxpandas.ipynb)       |
 | 15:00-15:30 | Coffee break |
 | 15:30-16:15 | [Visualising Networks -- Cytoscape]()|
 | 16:15-17:00 | [Visualising Networks -- Cytoscape]()|
